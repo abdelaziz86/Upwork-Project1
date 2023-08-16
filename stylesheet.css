@@ -1,3 +1,24 @@
 .navbar1 {
 	background-color: white !important; 
+
 }
+
+.items1 { 
+	justify-items: right ;
+	justify-content: right;
+}
+.navbar-nav {
+  margin-left: auto; /* Push the links to the right */
+}
+
+/* Adjusting the spacing between navigation links */
+.nav-item {
+  margin-right: 15px; /* Add some space between links */
+}
+
+.imageNavbar1 {
+	height : 50px ; 
+	width : 200px  ;
+}
+
+
