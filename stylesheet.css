@@ -37,3 +37,42 @@
 .buttonsNavbar:hover {
 	background-color: #C0C0C0;
 }
+
+
+.firstTitle {
+	font-size : 35px ; 
+	color : #6BAFEB ; 
+	margin-top: 20px;
+}
+.firstParag {
+	font-size : 24px ;   
+	color : #737373 ; 
+	margin-bottom : 30px ;
+}
+
+.paragImages {
+	margin-top : 10px ; 
+	color : #737373 ; 
+
+}
+
+.paragImages2 {
+	margin-top : 50px ; 
+	color : #737373 ; 
+	font-size : 24px ; 
+	margin-bottom: 10px;
+}
+
+.hrefsFooter{
+	text-decoration: none; 
+	font-size: 13px; 
+	margin-left : 20px ;  
+	color : #6BAFEB ;
+}
+
+.hrefsFooter2{
+	text-decoration: none; 
+	font-size: 13px; 
+	margin-left : 20px ;
+	color : black ;   
+}
