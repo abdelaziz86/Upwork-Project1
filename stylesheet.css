@@ -76,3 +76,12 @@
 	margin-left : 20px ;
 	color : black ;   
 }
+
+
+.hoverParts {
+	background-color: white ;   
+}
+
+.hoverParts:hover{
+	background-color: #737373 ;
+}
